@@ -1,0 +1,3 @@
+﻿  FinalTest.cpp
+C:\Users\NCPC\OneDrive - Swinburne University\2023-HX09-COS30008-Data-Structures-and-Patterns-Hanoi--2023-Sep-05_03-35-14-936\viewer\files\Assignment\FinalTest\TernaryTree.h(262): warning C4715: 'TernaryTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator=': not all control paths return a value
+  FinalTest.vcxproj -> C:\Users\NCPC\OneDrive - Swinburne University\2023-HX09-COS30008-Data-Structures-and-Patterns-Hanoi--2023-Sep-05_03-35-14-936\viewer\files\Assignment\FinalTest\x64\Debug\FinalTest.exe
